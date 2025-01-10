@@ -26,6 +26,9 @@ This project is a simple document scanning tool implemented in Python using Open
 
 ---
 
+Install dependencies:
+bash
+pip install opencv-python-headless numpy
 
 
 
