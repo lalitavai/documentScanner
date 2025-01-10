@@ -2,6 +2,8 @@
 
 This project is a simple document scanning tool implemented in Python using OpenCV. It identifies the contours of a document in an image, applies a perspective transformation to rectify it, and outputs a neatly cropped and flattened version of the document.
 
+![Alt text](doucmenr-scanner-project.png)
+
 ---
 
 ## Features
