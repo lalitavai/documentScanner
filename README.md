@@ -28,9 +28,14 @@ This project is a simple document scanning tool implemented in Python using Open
 
 ---
 
-Install dependencies:
-bash
-pip install opencv-python-headless numpy
+document-scanner/
+│
+├── document_scanner.py     # Main script
+├── scanned-form.jpg        # Input image
+├── rectified_document.jpg  # Output image (generated after running the script)
+├── README.md               # Project documentation
+
+---
 
 
 
