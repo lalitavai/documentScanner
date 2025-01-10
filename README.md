@@ -33,9 +33,10 @@ document-scanner/
 ├── document_scanner.py     # Main script
 ├── scanned-form.jpg        # Input image
 ├── rectified_document.jpg  # Output image (generated after running the script)
+├── images/                 # Folder containing screenshots (if any)
 ├── README.md               # Project documentation
+└── requirements.txt        # Dependencies (optional)
 
----
 
 
 
