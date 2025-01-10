@@ -35,10 +35,8 @@ This project is a simple document scanning tool implemented in Python using Open
 
 1.**Run the script:**
 `python document_scanner.py`
-
 2. Ensure that the input image is named scanned-form.jpg. If you want to use a different image, update the input_path variable in the script:
 `input_path = 'your-image.jpg'`
-
 3. The rectified document will be saved as rectified_document.jpg in the project directory.
 
 
