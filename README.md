@@ -29,7 +29,7 @@ This project is a simple document scanning tool implemented in Python using Open
 ---
 
 ## How to run
-run document-scanner.py 
+`pip install opencv-python-headless numpy`
   
 
 
